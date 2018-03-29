@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notifications_Dial_test</string>
+    <string name="sendNotif">Send notification</string>
+    <string name="sendNotif2">Send 2nd notification</string>
+    <string name="Dialog">Open Dialog</string>
+    <string name="resTextView">Result of Dialog here</string>
+</resources>
